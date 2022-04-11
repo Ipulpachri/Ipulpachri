@@ -9,3 +9,9 @@
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=monokai)
 
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ipulpachri&theme=tokyonight)
+
+<h3 align="right">Connect with me : :yum:</h3>
+<p align="right">
+<a href="https://facebook.com/SaefulFachri" target="_blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Maceng Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/sfdesign_id" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Maceng Instagram" height="30" width="40" /></a>
+</p>
