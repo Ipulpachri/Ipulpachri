@@ -9,7 +9,7 @@
 - I live in Indonesian
 - Thank you and follow me
 
-<a href="/youtube.com/c/SaefulFahri"><img align="center" src="https://cardivo.vercel.app/api?name=Fachri🌙&description=Halo,%20I%27m%20iam Saeful Fachri%,%20saya%20adalah%20programer%20pemula%20Nice%20to%20meet%20you✨%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Ipulpachri&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Ipulpachri&pattern=ticTacToe&colorPattern=%23eaeaea&site=FachriBotz"/></a>
+<a href="/youtube.com/c/SaefulFahri"><img align="center" src="https://cardivo.vercel.app/api?name=Fachri🌙&description=Halo,%20I%27m%20Saeful Fachri👑%,%20saya%20adalah%20programer%20pemula%20Nice%20to%20meet%20you✨%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Ipulpachri&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Ipulpachri&pattern=ticTacToe&colorPattern=%23eaeaea&site=FachriBotz"/></a>
 </p>
 
 ### Fachri Botz stat
