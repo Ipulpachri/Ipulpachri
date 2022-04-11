@@ -23,4 +23,5 @@
 <p align="right">
 <a href="https://youtube.com/SaefulFahri" target="_blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Fachri youtube" height="30" width="40" /></a>
 <a href="https://instagram.com/sfdesign_id" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Fachri Instagram" height="30" width="40" /></a>
+<a href="https://wa.me/6285713041886" target="_blank"><img align="center" src="https://simpleicons.org/icons/whatsapp.svg" alt="Fachri whatsapp" height="30" width="40" /></a>
 </p>
