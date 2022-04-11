@@ -10,10 +10,16 @@
 - I live in Indonesian
 - Thank you and follow me
 
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 <a href="/youtube.com/c/SaefulFahri"><img align="center" src="https://cardivo.vercel.app/api?name=Fachri🌙&description=Halo,%20I%27m%20Saeful Fachri👑%,%20saya%20adalah%20programer%20pemula%20Nice%20to%20meet%20you✨%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Ipulpachri&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Ipulpachri&pattern=ticTacToe&colorPattern=%23eaeaea&site=FachriBotz"/></a>
 </p>
 
-### Fachri Botz stat
+### Fachri Botz stat 📉
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Ipulpachri&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=monokai)
