@@ -30,9 +30,12 @@
 
 ### Fachri Botz Stat 📊
 
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Ipulpachri&theme=midnight-white&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=midnight-white)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ipulpachri&theme=default" alt="Fachri" /></p>
+
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Ipulpachri&theme=default&show_icons=true) 
+
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=default)
 
 
 <h3 align="right">Connect with me : :yum:</h3>
