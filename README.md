@@ -1,5 +1,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p>
 <h1 align="center">Hiiii! <img src="https://github.com/Ipulpachri/Ipulpachri/blob/main/IMG-20220128-WA0009.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
+
+<p align="center">
+
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+Jangan+Lupa+Follow!!.;I'am+Not+Programmer." alt="Pilar">
+
+</p>
+
 <p align="center">
 <a href="https://youtube.com/c/SaefulFahri"><img align="center" height="auto" src="https://github.com/Ipulpachri/Drz103/blob/main/Raditya.jpg"/></a>
 
