@@ -12,6 +12,9 @@
 
 <p align="center">
 
+
+## Informasi
+
 - Hy Im Fachri
 - I am 14 years old
 - I live in Indonesian
