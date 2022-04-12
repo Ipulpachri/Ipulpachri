@@ -19,7 +19,7 @@
 
 - Hy Im Fachri
 - I am 14 years old
-- I live in Indonesian
+- I live in Pemalang, Indonesian
 - Thank you and follow me
 
 
