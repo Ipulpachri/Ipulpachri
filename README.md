@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+Jangan+Lupa+Follow!!.;I'am+Not+Programmer." alt="Pilar">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+Jangan+Lupa+Follow!!.;I'am+Programmer+beginner." alt="Pilar">
 
 </p>
 
