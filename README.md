@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-<a href="https://youtube.com/c/SaefulFahri"><img align="center" height="auto" src="https://github.com/Ipulpachri/Drz103/blob/main/Raditya.jpg"/></a>
+<a href="https://youtube.com/c/SaefulFahri"><img align="center" height="auto" src="https://github.com/Ipulpachri/Ipulpachri/blob/main/IMG-20220409-WA0020.jpg"/></a>
 
 <p align="center">
 
 
-## Informasi
+## Informasi 
 
 - Hy Im Fachri
 - I am 14 years old
