@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+Jangan+Lupa+Follow!!.;I'am+Programmer+beginner." alt="Pilar">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+do'not+forget+follow.;I'am+Programmer+beginner." alt="Pilar">
 
 </p>
 
@@ -17,8 +17,6 @@
 - I live in Indonesian
 - Thank you and follow me
 
-<a href="/youtube.com/c/SaefulFahri"><img align="center" src="https://cardivo.vercel.app/api?name=Fachri🌙&description=Halo,%20I%27m%20Saeful Fachri👑%,%20saya%20adalah%20programer%20pemula%20Nice%20to%20meet%20you✨%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Ipulpachri&usqp=CAU&backgroundColor=%23ffffff&youtube=ZEROBOT&github=Ipulpachri&pattern=ticTacToe&colorPattern=%23eaeaea&site=FachriBotz"/></a>
-</p>
 
 ### Spotify Playing 🎧
 
