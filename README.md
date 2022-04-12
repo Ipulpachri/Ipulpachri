@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p>
-<h1 align="center">Hiiii! <img src="https://i.imgur.com/ugWb6BU.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">Hiii! <img src="https://i.imgur.com/ugWb6BU.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
 
 <p align="center">
 
