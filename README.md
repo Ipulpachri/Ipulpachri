@@ -37,6 +37,8 @@
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=default)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ipulpachri&theme=default)
+
 
 <h3 align="right">Connect with me : :yum:</h3>
 <p align="right">
