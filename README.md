@@ -20,9 +20,16 @@
 </p>
 
 ### Fachri Botz Stat 📊
+
+## Github Stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Ipulpachri&theme=midnight-white&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Ipulpachri&theme=midnight-white)
+
+## Repo Stat
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ipulpachri&repo=RadBot&theme=white)
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ipulpachri&repo=rfkbot&theme:white)
 
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ipulpachri&theme=midnight-white)
 
