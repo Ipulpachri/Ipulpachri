@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+Fachri+do'not+forget+follow.;I'am+Programmer+beginner." alt="Fachri">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Fachri">
 
 </p>
 
