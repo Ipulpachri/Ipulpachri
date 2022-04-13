@@ -1,4 +1,4 @@
-<h3 align="right">Visitor 
+<h3 align="right">Visitor ⓘ
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p>
 <h1 align="center">Hiii! <img src="https://i.imgur.com/ugWb6BU.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
@@ -15,10 +15,11 @@
 <p align="center">
 
 
-## Informasi 
+## Informasi ⓘ
 
 - Hy Im Fachri
 - I am 14 years old
+- I am Programmer Beginner
 - I live in Pemalang, Indonesian
 - Thank you and follow me
 
@@ -30,7 +31,7 @@
 </p>
 
 
-### Fachri Botz Stat 📊
+### Fachri Botz Stat 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ipulpachri&theme=default" alt="Fachri" /></p>
