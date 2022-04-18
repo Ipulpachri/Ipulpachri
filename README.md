@@ -16,13 +16,13 @@
 
 
 ## Informasi ⓘ
-
-- Hy Im Fachri
-- I am 14 years old
-- I am Programmer Beginner
-- I live in Pemalang, Indonesian
-- Thank you and follow me
-
+```ts
+◇ Hy Im Fachri
+◇ I am 14 years old
+◇ I am Programmer Beginner
+◇ I live in Pemalang, Indonesian
+◇ Thank you and follow me
+```
 
 ### Spotify Playing 🎧
 
