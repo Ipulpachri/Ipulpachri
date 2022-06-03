@@ -1,8 +1,7 @@
 <h3 align="right">Visitor ⓘ
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p>
-<h1 align="center">Hiii! <img src="https://i.imgur.com/ugWb6BU.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
-
+<h1 align="center">Hi I am Fachri 
 <p align="center">
 
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Fachri">
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://youtube.com/c/SaefulFahri"><img align="center" height="auto" src="https://camo.githubusercontent.com/c20b81f27e201ce526cc8f410e68a9bf83c9e2afa0a6e238b35e8932f45e9518/68747470733a2f2f692e6962622e636f2f6336527a4d37672f363837343734373037333361326632663664363536343639363132653637363937303638373932653633366636643266366436353634363936313266333833333336343836393461363333373730363737613739333836393465353834333665326636372e676966"/></a>
+<a href="https://youtube.com/c/SaefulFahri"><img align="center" height="auto" src="https://i.imgur.com/ugWb6BU.gif7343734373037333361326632663664363536343639363132653637363937303638373932653633366636643266366436353634363936313266333833333336343836393461363333373730363737613739333836393465353834333665326636372e676966"/></a>
 
 <p align="center">
 
