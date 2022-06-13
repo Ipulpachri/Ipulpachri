@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p> 
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Fachri">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Fachri">
 
 </p>
 
