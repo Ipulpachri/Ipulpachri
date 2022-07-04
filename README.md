@@ -12,7 +12,7 @@
 <p align="center">
 
 
-## Informasi ⓘ
+## Informasi 
 ```ts
 ◇ Hy Im Fachri
 ◇ I am 14 years old
