@@ -2,8 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ipulpachri&label=Profile%20views&color=443c42&style=plastic" alt="Ipulpachri" /> </p> 
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Fachri">
-
+<p align="center">
+  <a href="https://github.com/Ipulpachri"><img src="http://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&multiline=false&lines=Hi+I'm+Fachri;I'm+From+Indonesian;Don't+bully+me" alt="Awokawok 🗿">
 </p>
 
 <p align="center">
